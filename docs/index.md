@@ -2,7 +2,7 @@
 <br>
 <p>BorderTweaks.css</p>
 
-```
+```css
 /* To use this on YouTube, install Stylus in your browser then head to YouTube and click 'Write Style For...' in the Stylus extension,
 then copy and paste the desired content.
 Removes the border around the 'Login' button */
