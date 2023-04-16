@@ -1,0 +1,14 @@
+/* To use this on YouTube, install Stylus in your browser then head to YouTube and click 'Write Style For...' in the Stylus extension,
+then copy and paste the desired content
+
+Below code disables the area above the videos in search (aka 'Filters' button and 'About these results' link). It removes the ability to filter videos. 
+If you do not use filters and wish to remove them, use this block of code.
+
+*/
+
+#container.style-scope.ytd-search-sub-menu-renderer {
+    
+    display: none;
+    
+}
+
