@@ -1,0 +1,18 @@
+/* To use this on YouTube, install Stylus in your browser then head to YouTube and click 'Write Style For...' in the Stylus extension,
+then copy and paste the desired content*/
+
+/* Disables YouTube Shorts on the home page */
+
+#content.style-scope.ytd-rich-section-renderer {
+    
+    display: none; /* If you want shorts to remain on the home page, delete this line. */
+    
+}
+
+/* Disables YouTube Shorts section on the Search page [DOES NOT REMOVE SHORTS LISTED LIKE VIDEOS] */
+
+ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer {
+    
+    display: none;
+
+}
