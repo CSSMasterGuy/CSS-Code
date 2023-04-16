@@ -3,6 +3,5 @@
 <p>BorderTweaks.css</p>
 ```
 
-  code
 
 ```
