@@ -7,7 +7,7 @@
 
 | Link  | Description |
 | ------------- | ------------- |
-| <a href="/YouTube.md">YouTube</a> | Changes to the searchbar, shorts disabling, etc.|
+| <a href="https://github.com/CSSMasterGuy/CSS-Code/Pages/docs/YouTube.md">YouTube</a> | Changes to the searchbar, shorts disabling, etc.|
 | <a href="/Steam.md">Steam</a>  | Unavailable |
 | <a href="/GitHub.md">GitHub</a>  | Unavailable |
 | <a href="/Google.md">Google</a>  | Unavailable |
